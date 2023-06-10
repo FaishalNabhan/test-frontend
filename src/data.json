@@ -1,0 +1,132 @@
+{
+	"kepadatan_penduduk": [
+		{
+			"name": "Kenjeran",
+			"coordinate": {
+				"latitude": -7.2167,
+				"longitude": 112.7333
+			},
+			"population_density": 4935
+		},
+		{
+			"name": "Bulak",
+			"coordinate": {
+				"latitude": -7.2167,
+				"longitude": 112.7667
+			},
+			"population_density": 12110
+		},
+		{
+			"name": "Simokerto",
+			"coordinate": {
+				"latitude": -7.2167,
+				"longitude": 112.7167
+			},
+			"population_density": 15681
+		},
+		{
+			"name": "Sukolilo",
+			"coordinate": {
+				"latitude": -7.2946,
+				"longitude": 112.6869
+			},
+			"population_density": 7802
+		},
+		{
+			"name": "Tegalsari",
+			"coordinate": {
+				"latitude": -7.2636,
+				"longitude": 112.7385
+			},
+			"population_density": 14687
+		},
+		{
+			"name": "Genteng",
+			"coordinate": {
+				"latitude": -7.2653,
+				"longitude": 112.7425
+			},
+			"population_density": 15269
+		},
+		{
+			"name": "Tambaksari",
+			"coordinate": {
+				"latitude": -7.2574,
+				"longitude": 112.7459
+			},
+			"population_density": 10663
+		},
+		{
+			"name": "Gubeng",
+			"coordinate": {
+				"latitude": -7.2868,
+				"longitude": 112.7322
+			},
+			"population_density": 11104
+		},
+		{
+			"name": "Wonocolo",
+			"coordinate": {
+				"latitude": -7.2833,
+				"longitude": 112.8167
+			},
+			"population_density": 5034
+		},
+		{
+			"name": "Rungkut",
+			"coordinate": {
+				"latitude": -7.3314,
+				"longitude": 112.7523
+			},
+			"population_density": 5341
+		},
+		{
+			"name": "Sambikerep",
+			"coordinate": {
+				"latitude": -7.3851,
+				"longitude": 112.7446
+			},
+			"population_density": 2382
+		},
+		{
+			"name": "Lakarsantri",
+			"coordinate": {
+				"latitude": -7.2955,
+				"longitude": 112.7463
+			},
+			"population_density": 7452
+		},
+		{
+			"name": "Sawahan",
+			"coordinate": {
+				"latitude": -7.2679,
+				"longitude": 112.7396
+			},
+			"population_density": 12968
+		},
+		{
+			"name": "Jambangan",
+			"coordinate": {
+				"latitude": -7.3115,
+				"longitude": 112.7322
+			},
+			"population_density": 7594
+		},
+		{
+			"name": "Wiyung",
+			"coordinate": {
+				"latitude": -7.3034,
+				"longitude": 112.7354
+			},
+			"population_density": 7041
+		},
+		{
+			"name": "Mulyorejo",
+			"coordinate": {
+				"latitude": -7.2971,
+				"longitude": 112.7438
+			},
+			"population_density": 12807
+		}
+	]
+}
