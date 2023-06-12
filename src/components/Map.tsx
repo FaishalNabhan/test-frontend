@@ -25,7 +25,6 @@ const Map: React.FC = () => {
 	const [autocomplete, setAutocomplete] = useState<null | google.maps.places.Autocomplete>(null)
 	const zoomLevel = selected ? 18 : 14
 	const { isLoaded } = useLoadScript({
-		googleMapsApiKey: 'AIzaSyBq5S2L-6DQnR9tORtbHtD-uYEphxeK_OE',
 		libraries: libRef.current as any,
 		region: 'ID',
 		language: 'id',
