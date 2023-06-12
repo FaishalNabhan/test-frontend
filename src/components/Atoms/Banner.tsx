@@ -11,7 +11,6 @@ const Banner: React.FC = () => {
 	const [inputValue, setInputValue] = useState('')
 
 	const { isLoaded } = useLoadScript({
-		googleMapsApiKey: 'AIzaSyBq5S2L-6DQnR9tORtbHtD-uYEphxeK_OE',
 		libraries,
 	})
 
