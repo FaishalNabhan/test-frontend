@@ -54,7 +54,6 @@ const NearbyPlaces: React.FC = () => {
 	}
 
 	const { isLoaded, loadError } = useLoadScript({
-		googleMapsApiKey: 'AIzaSyDYx9Z7Jde1bd--aeqEt1Rxm_8x72duo_o',
 		libraries,
 	})
 
