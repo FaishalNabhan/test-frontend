@@ -10,7 +10,6 @@ const Home: React.FC = () => {
 		<>
 			<ReactGoogleMapsLoader
 				params={{
-					key: 'AIzaSyBq5S2L-6DQnR9tORtbHtD-uYEphxeK_OE',
 					libraries: 'places',
 				}}
 				render={(googleMaps: any) => (
